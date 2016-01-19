@@ -1,2 +1,3 @@
-# ghk
-ghk project
+ghk
+========
+ghk webapplication
